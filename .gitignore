@@ -1,3 +1,6 @@
+# Database info
+db/app.db
+
 # Logs
 logs
 *.log
