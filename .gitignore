@@ -1,5 +1,5 @@
 # Database info
-db/app.db
+db/*.db
 
 # Logs
 logs

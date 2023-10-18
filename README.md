@@ -20,3 +20,11 @@ Doc - [https://www.npmjs.com/package/supertest]
 
   npm install -D @types/supertest
 ```
+
+## Compiling TS to JS for deploy
+To be possible to deploy a node application, we need to compile from TS to JS.
+
+### TSUP
+```bash
+  npm install -D tsup
+```
